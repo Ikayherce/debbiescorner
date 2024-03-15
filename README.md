@@ -37,3 +37,62 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 ---
 
 Happy coding!
+
+
+# Table of contents
+## 1. UX
+## 2. Agile Development
+## 3. Features implemented
+## 4. Features Left to Implement
+## 5. Technology used
+## 6. Testing
+## 7. Bugs
+## 8. Deployment
+## 9. Resources
+## 10. Credits and acknowledgements
+
+# Table of contents
+## 1. UX
+ ### Database planning
+  #### Data Structure
+  #### Data Models 
+   ###### User profile model
+   ###### Bookings model 
+ ### UX Design 
+  #### Overview
+   ##### Design (initial design planning)
+   ###### Site User
+   ###### Goals for the website 
+   ##### Wireframes 
+## 2. Agile Development
+ ### User Stories (mandatory vs not mandatory)
+## 3. Features implemented
+ ### Navbar and Footer
+ ### Index Page 
+ ### About us page
+ ### Authentication and profile management
+ ### Bookings
+ ### Responsiveness
+## 4. Features Left to Implement
+## 5. Technology used
+ ### Html - for page structure
+ ### CSS - for custom styling
+ ### Python - for the backend
+ ### Javascript - for timeout in messages
+ ### Django - framework used to build this project
+ ### Jinja - templating language rendering logic within html documents
+ ### Bootstrap 5 - front end framework used by me alongside Django, helps with fast and efficient styling
+ ### Heroku PostgreSQL - used as the database
+ ### Font Awesome - for social media icons
+ ### Google Fonts- currently only for the hero image font
+ ### GitHub - for storing the code and for the projects Kanban
+ ### Heroku - for hosting and deployement of this project
+ ### Cloudinary - hosting the static files
+ ### Git - version control tool
+## 6. Testing
+### Responsiveness
+### Manual testing
+## 7. Bugs
+## 8. Deployment
+## 9. Resources
+## 10. Credits and acknowledgements
